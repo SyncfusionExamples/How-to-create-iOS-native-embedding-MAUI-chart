@@ -8,6 +8,6 @@
     <SupportedOSPlatformVersion>13.0</SupportedOSPlatformVersion>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Syncfusion.Maui.Charts" Version="23.2.4" />
+    <PackageReference Include="Syncfusion.Maui.Charts" Version="*" />
   </ItemGroup>
 </Project>
