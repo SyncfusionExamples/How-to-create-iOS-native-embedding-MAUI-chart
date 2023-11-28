@@ -51,7 +51,7 @@ public override bool FinishedLaunching(UIApplication application, NSDictionary l
     builder.UseMauiEmbedding<microsoft.maui.controls.application>();
     builder.ConfigureSyncfusionCore();
     // Register the Window.
-    builder.Services.Add(new          Microsoft.Extensions.DependencyInjection.ServiceDescriptor(typeof(UIWindow), Window));
+    builder.Services.Add(new Microsoft.Extensions.DependencyInjection.ServiceDescriptor(typeof(UIWindow), Window));
     MauiApp mauiApp = builder.Build();
     _mauiContext = new MauiContext(mauiApp.Services);
 }
