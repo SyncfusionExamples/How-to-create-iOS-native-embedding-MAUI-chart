@@ -1,4 +1,4 @@
-# iOS-Native-embedding-for-.NET-MAUI-Chart
+# iOS Native embedding for .NET MAUI Chart
 This article in the Syncfusion Knowledge Base explains iOS Native embedding for .NET MAUI Chart
 
 To create a [.NET MAUI Cartesian chart](https://www.syncfusion.com/maui-controls/maui-cartesian-charts) in a native embedded IOS application, you need to follow a series of steps. This article will guide you through the process.
